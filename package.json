@@ -1,0 +1,22 @@
+{
+  "name": "quizletreader",
+  "version": "1.0.0",
+  "description": "uses quizlet api to download sets",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nmcarp99/quizletdemo.git"
+  },
+  "keywords": [
+    "quizlet"
+  ],
+  "author": "Nolan Carpenter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nmcarp99/quizletdemo/issues"
+  },
+  "homepage": "https://github.com/nmcarp99/quizletdemo#readme"
+}
